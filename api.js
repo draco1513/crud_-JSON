@@ -1,0 +1,1 @@
+const dbocategoria=require('./dbcategoria');
